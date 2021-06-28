@@ -1,3 +1,94 @@
 body{
     font-family: 'poppins', sans-serif !important;
+    background: #f3f1ff !important;
+}
+
+.navbar-purple{
+background-color: #562EFF !important;
+
+}
+
+.navbar-brand h4{
+    display: inline-block;
+    font-weight: 400 !important;
+}
+
+.navbar-brand img{
+    width: 40px;
+}
+
+.nav-item img{
+    width: 40px;
+}
+
+.top-players img{
+    width: 50px;
+}
+
+.top-player p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.top-player{
+    border-radius: 5px;
+}
+
+
+
+@media (min-width:768px) {
+    .top-blog img{
+        width: 200px !important;
+        padding-bottom: none;
+    }     
+}
+
+
+
+.top-blog h3{
+font-weight: 600;
+font-size:23px    
+}
+
+.course{
+    border-radius: 5px;
+}
+
+.course .left img{
+    width: 17px;
+}
+
+
+.course .left img{
+    width: 17px;
+}
+
+.course .right img{
+    width: 25px;
+}
+
+.right{
+    background: #FFE4E8;
+    color: #FF4A60;
+    border-radius: 30px;
+}
+
+.right span{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.card-box{
+    box-shadow: 3px 3px 30px lightgray !important;
+    border-radius: 15px !important;
+    border: none !important;
+
+}
+
+.purple-bg{
+    background-color: #562EFF !important;
+}
+
+.purple-text{
+    color: #562EFF !important;
 }
